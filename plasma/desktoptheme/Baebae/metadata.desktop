@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Baebae
+X-KDE-PluginInfo-Author=JoshFreeno
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-Name=Baebae
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+#intensity is disabled, in order to auto adjust to the chosen theme color
+intensity=0.4
+saturation=1.7
