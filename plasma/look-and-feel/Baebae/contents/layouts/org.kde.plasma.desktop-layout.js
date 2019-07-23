@@ -20,12 +20,11 @@ var layout = {
                     "PreloadWeight": "0"
                 },
                 "/General": {
-                    "positions": "1,17,desktop:/Baebae,0,0",
                     "showToolbox": "false",
                     "sortMode": "-1"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/josh/Pictures/Best-1920x1080.jpg"
+                    "Image": "file:///home/josh/Pictures/Final Design Lighter Blue.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -87,7 +86,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "54"
+                            "PreloadWeight": "73"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"
@@ -98,7 +97,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "10"
+                            "PreloadWeight": "22"
                         }
                     },
                     "plugin": "org.kde.plasma.digitalclock"

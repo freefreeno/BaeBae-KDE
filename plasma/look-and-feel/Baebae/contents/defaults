@@ -4,6 +4,9 @@ cursorTheme=breeze_cursors
 [kdeglobals][General]
 ColorScheme=Baebae
 
+[kdeglobals][Icons]
+Theme=Newaita-dark
+
 [kdeglobals][KDE]
 widgetStyle=breeze
 

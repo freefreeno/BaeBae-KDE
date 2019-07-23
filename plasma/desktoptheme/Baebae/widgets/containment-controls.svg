@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg102"
+   version="1.0"
+   height="128"
+   width="128">
+  <metadata
+     id="metadata106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#5191e0;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#5191e0;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5191e0;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#5191e0;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#5191e0;
+      }</style>
+  </defs>
+  <rect
+     opacity=".65"
+     fill="#023812"
+     height="5.4026"
+     width="5.2208"
+     x="-10"
+     id="hint-tile-center" />
+  <g
+     transform="translate(1,-28)"
+     id="vertical-centerindicator">
+    <rect
+       style="fill:#ffffff"
+       id="rect6"
+       opacity=".4"
+       fill="currentColor"
+       height="1"
+       width="42"
+       y="32"
+       x="11"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     style="fill:#ffffff"
+     transform="translate(-4,17)"
+     id="horizontal-centerindicator">
+    <path
+       style="fill:#ffffff"
+       id="path9"
+       opacity=".4"
+       fill="currentColor"
+       d="m-31 8h42v1h-42z"
+       transform="rotate(-90)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.73969 0 0 .73969 161.53 126.21)"
+     id="south-maxslider">
+    <rect
+       id="rect12"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect14"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path16"
+       fill="currentColor"
+       d="m19.688 59.156-0.75 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.73969 0 0 .73969 129.53 125.2)"
+     id="south-offsetslider">
+    <rect
+       id="rect19"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       height="19"
+       width="28"
+       y="56"
+       x="-40"
+       transform="matrix(1.3519 0 0 1.3519 -37.218 -180.08)" />
+    <path
+       style="fill:#ffffff"
+       id="path21"
+       fill="currentColor"
+       d="m-72.266-88.185 9.733-13.48h-19.466z"
+       class="ColorScheme-Background" />
+  </g>
+  <rect
+     id="south-center"
+     class="ColorScheme-ButtonText"
+     x="71"
+     y="66"
+     width="10"
+     height="12"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="south-bottom"
+     class="ColorScheme-ButtonText"
+     x="71"
+     y="78"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="south-top"
+     class="ColorScheme-ButtonText"
+     x="71"
+     y="65"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="north-center"
+     class="ColorScheme-ButtonText"
+     x="70"
+     y="29"
+     width="10"
+     height="12"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="north-bottom"
+     class="ColorScheme-ButtonText"
+     x="70"
+     y="41"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="north-top"
+     class="ColorScheme-ButtonText"
+     x="70"
+     y="28"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="west-center"
+     class="ColorScheme-ButtonText"
+     transform="rotate(90)"
+     x="113"
+     y="-18"
+     width="10"
+     height="12"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="west-left"
+     class="ColorScheme-ButtonText"
+     transform="rotate(90)"
+     x="113"
+     y="-6"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="west-right"
+     class="ColorScheme-ButtonText"
+     transform="rotate(90)"
+     x="113"
+     y="-19"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="east-center"
+     class="ColorScheme-ButtonText"
+     transform="rotate(90)"
+     x="112"
+     y="-90"
+     width="10"
+     height="12"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="east-left"
+     class="ColorScheme-ButtonText"
+     transform="rotate(90)"
+     x="112"
+     y="-78"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <rect
+     id="east-right"
+     class="ColorScheme-ButtonText"
+     transform="rotate(90)"
+     x="112"
+     y="-91"
+     width="10"
+     height="1"
+     style="color:#31363b;opacity:1;fill:#5191e0;fill-opacity:1" />
+  <g
+     transform="matrix(-.73969 0 0 .73969 54.474 141.21)"
+     id="south-minslider">
+    <rect
+       id="rect38"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect40"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path42"
+       fill="currentColor"
+       d="m19.625 59.156-0.6875 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.73969 0 0 .73969 161.53 84.707)"
+     id="north-maxslider">
+    <rect
+       id="rect45"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect47"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path49"
+       fill="currentColor"
+       d="m19.688 59.156-0.75 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(.73969 0 0 -.73969 127.53 -57.2)"
+     id="north-offsetslider">
+    <rect
+       id="rect52"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       height="19"
+       width="28"
+       y="56"
+       x="-40"
+       transform="matrix(1.3519 0 0 1.3519 -37.218 -180.08)" />
+    <path
+       style="fill:#ffffff"
+       id="path54"
+       fill="currentColor"
+       d="m-72.266-88.185 9.733-13.48h-19.466z"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(-.73969 0 0 .73969 54.474 99.707)"
+     id="north-minslider">
+    <rect
+       id="rect57"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect59"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path61"
+       fill="currentColor"
+       d="m19.625 59.156-0.6875 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(0 .73969 -.73969 0 33.793 153.53)"
+     id="east-maxslider">
+    <rect
+       id="rect64"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect66"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path68"
+       fill="currentColor"
+       d="m19.688 59.156-0.75 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(0 .73969 .73969 0 153.2 149.53)"
+     id="east-offsetslider">
+    <rect
+       id="rect71"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       height="19"
+       width="28"
+       y="56"
+       x="-40"
+       transform="matrix(1.3519 0 0 1.3519 -37.218 -180.08)" />
+    <path
+       style="fill:#ffffff"
+       id="path73"
+       fill="currentColor"
+       d="m-72.266-88.185 9.733-13.48h-19.466z"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(0 -.73969 -.73969 0 49.793 46.474)"
+     id="east-minslider">
+    <rect
+       id="rect76"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect78"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path80"
+       fill="currentColor"
+       d="m19.625 59.156-0.6875 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(0 .73969 -.73969 0 -38.207 153.53)"
+     id="west-maxslider">
+    <rect
+       id="rect83"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect85"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path87"
+       fill="currentColor"
+       d="m19.688 59.156-0.75 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(0 .73969 -.73969 0 -57.2 149.53)"
+     id="west-offsetslider">
+    <rect
+       id="rect90"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       height="19"
+       width="28"
+       y="56"
+       x="-40"
+       transform="matrix(1.3519 0 0 1.3519 -37.218 -180.08)" />
+    <path
+       style="fill:#ffffff"
+       id="path92"
+       fill="currentColor"
+       d="m-72.266-88.185 9.733-13.48h-19.466z"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     transform="matrix(0 -.73969 -.73969 0 -18.707 46.474)"
+     id="west-minslider">
+    <rect
+       id="rect95"
+       opacity=".01"
+       fill-opacity=".0039216"
+       fill="#fcfcfc"
+       ry="3"
+       rx="3"
+       height="15"
+       width="36"
+       y="57"
+       x="8"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)" />
+    <rect
+       style="fill:#ffffff"
+       id="rect97"
+       fill="currentColor"
+       height="14.871"
+       width="2.7039"
+       y="-101.67"
+       x="-73.716"
+       class="ColorScheme-Background" />
+    <path
+       style="fill:#ffffff"
+       id="path99"
+       fill="currentColor"
+       d="m19.625 59.156-0.6875 0.6875 4.1562 4.1562h-12.094v1h12.094l-4.1562 4.1562 0.6875 0.6875 5-5 0.375-0.34375-0.375-0.34375z"
+       transform="matrix(1.3519 0 0 1.3519 -107.51 -181.44)"
+       class="ColorScheme-Background" />
+  </g>
+</svg>
