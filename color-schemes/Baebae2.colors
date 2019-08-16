@@ -75,8 +75,8 @@ ForegroundPositive=52,197,122
 ForegroundVisited=96,177,255
 
 [Colors:View]
-BackgroundAlternate=60,64,78
-BackgroundNormal=60,64,78
+BackgroundAlternate=56,60,72
+BackgroundNormal=56,60,72
 DecorationFocus=82,163,241
 DecorationHover=82,163,241
 ForegroundActive=87,166,241
@@ -103,8 +103,8 @@ ForegroundPositive=52,197,122
 ForegroundVisited=96,177,255
 
 [General]
-ColorScheme=Baebae
-Name=Baebae
+ColorScheme=Baebae 2
+Name=Baebae-2
 shadeSortColumn=true
 
 [KDE]
