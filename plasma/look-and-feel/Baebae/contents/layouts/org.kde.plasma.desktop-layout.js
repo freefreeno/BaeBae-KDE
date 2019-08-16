@@ -20,11 +20,12 @@ var layout = {
                     "PreloadWeight": "0"
                 },
                 "/General": {
+                    "positions": "1,17,desktop:/Screenshot_20190816_173441.png,0,0",
                     "showToolbox": "false",
                     "sortMode": "-1"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/josh/Pictures/Final Design Lighter Blue.png"
+                    "Image": "file:///home/josh/Pictures/Arch-282828.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -45,9 +46,6 @@ var layout = {
                         "/Configuration/General": {
                             "favoritesPortedToKAstats": "true",
                             "systemApplications": "systemsettings.desktop,org.kde.kinfocenter.desktop"
-                        },
-                        "/Configuration/Shortcuts": {
-                            "global": "Alt+F1"
                         },
                         "/Shortcuts": {
                             "global": "Alt+F1"
@@ -72,10 +70,25 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "PreloadWeight": "26",
+                            "localPath": "/home/josh/.local/share/plasma_icons/org.kde.falkon.desktop",
+                            "url": "file:///usr/share/applications/org.kde.falkon.desktop"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.icon"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        },
+                        "/Configuration": {
                             "PreloadWeight": "0"
                         },
                         "/Configuration/General": {
-                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:chromium.desktop"
+                            "groupingAppIdBlacklist": "chromium.desktop",
+                            "groupingLauncherUrlBlacklist": "applications:chromium.desktop",
+                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop"
                         }
                     },
                     "plugin": "org.kde.plasma.taskmanager"
@@ -86,7 +99,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "73"
+                            "PreloadWeight": "100"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"
@@ -97,7 +110,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "22"
+                            "PreloadWeight": "100"
                         }
                     },
                     "plugin": "org.kde.plasma.digitalclock"
