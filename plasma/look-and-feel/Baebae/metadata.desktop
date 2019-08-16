@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=Grey/blue look and feel theme with Yosemite style window decorations and three color schemes to choose from
+Comment=Grey/blue look and feel theme with Yosemite style window decorations and four color schemes to choose from
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;
 Name=Baebae
@@ -14,4 +14,4 @@ X-KDE-PluginInfo-Website=https://github.com/freefreeno/Baebae-KDE
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://wallpaper.knsrc/api.kde-look.org/129689
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://wallpaper.knsrc/api.kde-look.org/
