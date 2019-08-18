@@ -2,7 +2,7 @@
 cursorTheme=breeze_cursors
 
 [kdeglobals][General]
-ColorScheme=Baebae
+ColorScheme=BaebaeDarker2
 
 [kdeglobals][Icons]
 Theme=Newaita-dark
@@ -18,7 +18,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Baebae
+theme=__aurorae__svg__Baebae-darker
 
 [plasmarc][Theme]
 name=Baebae
